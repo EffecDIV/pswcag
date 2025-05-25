@@ -46,4 +46,4 @@ It enables better user experience for people with disabilities, provides full ke
 ### 📦 From Git
 
 ```bash
-git clone https://github.com/EffecDiv/pswcag.git modules/pswcag
+git clone https://github.com/EffecDiv/pswcag.git pswcag
