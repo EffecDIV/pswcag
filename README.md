@@ -15,7 +15,7 @@ It enables better user experience for people with disabilities, provides full ke
 
 ---
 
-🎥 https://github.com/EffecDIV/pswcag/releases/tag/release-video
+🎥  https://github.com/EffecDIV/pswcag/releases/tag/release-video
 
 ---
 
